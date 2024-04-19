@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: #ffffff;
+    font-size: large;
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+.info{
+    border: 3px yellow solid;
+    border-radius: 10px;
+}
+input{
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+}
